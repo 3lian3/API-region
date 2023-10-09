@@ -45,9 +45,9 @@ Ce projet a été réalisé avec Symfony et utilise l'API de [Géo API](https://
 
 ## Capture d'écran
 
-![capture d'écran](./screenshots/APIRegion.png)
-![capture d'écran](./screenshots/APIRegion2.png)
+![APIRegion2](https://github.com/3lian3/API-region/assets/129569092/d3cd083b-78e1-49b1-8876-005e04e53af6)
 
+![APIRegion](https://github.com/3lian3/API-region/assets/129569092/4dba57ca-57fe-4b64-a166-7190fb4eb002)
 
 ## Contribution
 
